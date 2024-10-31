@@ -18,7 +18,7 @@ public class SeleniumWithAPIExample {
     private WebDriver driver;
 
     private static final String FROM_EMAIL = "pramodaskdrive01@gmail.com";
-    private static final String PASSWORD = "iyzxadvqmtuihehu";
+    private static final String PASSWORD = "-------pass-------";
     private static final String TO_EMAIL = "pramodask2003@gmail.com";
     private static final String SUBJECT = "API Test Result";
 
